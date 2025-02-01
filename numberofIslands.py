@@ -1,7 +1,7 @@
 # Time Complexity : O(m*n)
 # Space Complexity : O(m+n)
-# Did this code successfully run on Leetcode :
-# Any problem you faced while coding this :
+# Did this code successfully run on Leetcode : yes
+# Any problem you faced while coding this : none
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if grid is None or len(grid) == 0:
